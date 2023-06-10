@@ -1,37 +1,15 @@
-# Minimal React Boilerplate
+# Jupiter Visualization with Three.js
+
+This repository provides examples and resources for visualizing Jupiter using Three.js, a popular JavaScript library for creating 3D graphics in the web browser.
+
+
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UVX7ie6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png"  width=35% height=35%>
+<img src="https://github.com/harou24/jupiter_online/assets/61208023/5c025416-9aae-4e26-aa4b-4b0e507efc7c"  width=35% height=35%>
 </p>
 
-https://harou24.github.io/jupiter_online/
 
 
-This is a minimal react boilerplate with the folowing dependencies :
-- react
-- react-dom
-- webpack (webpack-cli, webpack-dev-server, html-webpack-plugin) 
-- babel-loader (@babel/core, @babel/preset-env, @babel/preset-react)
+## Live Demo
 
-## How to run
-```
-npm install
-npm start
-```
+To experience the Jupiter visualization app in action, check out the live demo: [Jupiter Visualization Live Demo](https://harou24.github.io/jupiter_online/)
 
-## See your app at
-http://localhost:8080/
-
-## TypeScript
-A TypeScript version of this boilerplate is available on the typescript branch.
-
-## Usefull packages
-```
-npm install --save styled-components
-npm install --save @types/styled-components
-npm install --save react-router-dom
-npm install --save react-scroll
-npm install --save @types/react-scroll
-```
-## Sources
-
-https://mrseanbaines.medium.com/how-to-write-a-minimal-react-boilerplate-from-scratch-85ba17757040
